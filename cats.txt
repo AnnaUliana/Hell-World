@@ -1,4 +1,4 @@
 ﻿//Здесь будут изменения студентов группы 431
 
-
-//kommentarii napisan Romanovoi Annoi i Tolshmyakowoi Ulyanoi
+// тут мое изменение 1
+//а тут будут наши изменения
